@@ -4,6 +4,5 @@
 + 💞️ I’m looking to collaborate on anything related  
 + 📫 How to reach me: you've got my LinkedIn link below  
 
-
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-s-talegaon-2a64a6239/)
+![Profile Count](https://komarev.com/ghpvc/?username=yourusername)
