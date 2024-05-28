@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Pavan2280/Pavan2280/assets/131603225/52e58389-10c9-48d8-be9e-f0ba5e3f0fdf)" alt="Pic"/>
+  <img src="https://github.com/Pavan2280/Pavan2280/assets/131603225/52e58389-10c9-48d8-be9e-f0ba5e3f0fdf" alt="Pic"/>
 </div>
 
 # Welcome to Pavan S Talegaon's GitHub!
