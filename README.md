@@ -1,4 +1,6 @@
-![image](https://github.com/Pavan2280/Pavan2280/assets/131603225/3db89bf0-247a-411a-b170-b152d8b424da)
+<div align="center">
+  <img src="https://github.com/Pavan2280/Pavan2280/assets/131603225/505b5b07-f6af-4b12-bcab-2ae40a51f933" alt="Pic"/>
+</div>
 
 # Welcome to Pavan S Talegaon's GitHub!
 
