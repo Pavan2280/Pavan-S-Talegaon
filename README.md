@@ -1,4 +1,4 @@
-![Boy Image](https://github.com/Pavan2280/Pavan_ST/assets/131603225/ba9b9135-e557-43a0-b27a-39d342c757e2)
+![image](https://github.com/Pavan2280/Pavan2280/assets/131603225/3db89bf0-247a-411a-b170-b152d8b424da)
 
 # Welcome to Pavan S Talegaon's GitHub!
 
