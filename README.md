@@ -4,7 +4,7 @@
 
 # Welcome to Pavan S Talegaon's GitHub!
 
-Hello! 👋 I'm Pavan S Talegaon, I’m a VLSI enthusiast passionate about design and verification, constantly exploring the latest advancements in technology. This GitHub repository is where I share my projects, collaborate with other developers, and contribute to the open-source community. 
+Hello! 👋 I'm Pavan S Talegaon, a VLSI enthusiast, passionate about design and verification, constantly exploring the latest advancements in technology. This GitHub repository is where I share my projects, collaborate with other developers, and contribute to the open-source community. 
 
 ## 🛠️ Technologies & Tools
 
