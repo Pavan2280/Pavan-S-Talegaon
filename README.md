@@ -15,7 +15,7 @@ Hello! 👋 I'm Pavan S Talegaon, I’m a VLSI enthusiast passionate about desig
 
 ## 📫 How to Reach Me
 
-- *Email:* [pavantalegaon@example.com](mailto:your.email@example.com)
+- *Email:* [pavantalegaon@gamil.com](mailto:your.email@example.com)
 - *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/pavan-s-talegaon-2a64a6239/)
 
 ## 💬 Let's Connect!
