@@ -19,7 +19,7 @@ Hello! 👋 I'm Pavan, a VLSI enthusiast, passionate about design and verificati
 ## 📫 How to Reach Me
 
 - *Email:* [pavantalegaon@gamil.com](mailto:your.email@example.com)
-- *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/pavan-s-talegaon-2a64a6239/)
+- *LinkedIn:* [My LinkedIn Profile](https://www.linkedin.com/in/pavan-s-talegaon-2a64a6239/)
 
 ## 💬 Let's Connect!
 
