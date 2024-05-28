@@ -10,8 +10,9 @@ Hello! 👋 I'm Pavan S Talegaon, I’m a VLSI enthusiast passionate about desig
 - *Tools:* Xilinx Vivardo, Xilinx ISE, VS Code, Git
 
 ## 🌱 What I'm Learning
-
-- System Verilog, UVM, Perl, TCL
+- System Verilog and UVM for verifiaction
+- CPU architecture, instruction sets and its design
+- Perl and TCL Scripting
 
 ## 📫 How to Reach Me
 
