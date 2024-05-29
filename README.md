@@ -9,7 +9,7 @@ Hello! 👋 I'm Pavan, a VLSI enthusiast, passionate about design and verificati
 ## 🛠️ Technologies & Tools
 
 - *Languages:* Python, C, Verilog 
-- *Tools:* Xilinx Vivardo, Xilinx ISE, VS Code, Git
+- *Tools:* Xilinx Vivado, Xilinx ISE, VS Code, Git
 
 ## 🌱 What I'm Learning
 - System Verilog and UVM for verifiaction
